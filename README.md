@@ -13,3 +13,6 @@ fontSize, fontweight etc.
 
    ```bash
    git clone https://github.com/your-username/your-project.git
+ # Hosted link
+ To view the visual presentaion 
+ https://suvansh-7harma.github.io/dom_Project-1/
