@@ -1,0 +1,10 @@
+let box = document.getElementById("box");
+console.log(box);
+box.style.color = "blue";
+box.style.backgroundColor = "yellow";
+box.style.margin = "20px";
+box.style.padding = "10px";
+box.style.fontSize = "18px";
+box.style.fontweight = "bold";
+box.style.height = "200px";
+box.style.width = "300px";
